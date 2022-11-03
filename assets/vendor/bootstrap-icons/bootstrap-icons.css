@@ -600,7 +600,7 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
 .bi-eye::before { content: "\f341"; }
 .bi-eyedropper::before { content: "\f342"; }
 .bi-eyeglasses::before { content: "\f343"; }
-.bi-facebook::before { content: "\f344"; }
+.bi-facebook::before { color: #9370DB; content: "\f344"; }
 .bi-file-arrow-down-fill::before { content: "\f345"; }
 .bi-file-arrow-down::before { content: "\f346"; }
 .bi-file-arrow-up-fill::before { content: "\f347"; }
@@ -843,7 +843,7 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
 .bi-info::before { content: "\f434"; }
 .bi-input-cursor-text::before { content: "\f435"; }
 .bi-input-cursor::before { content: "\f436"; }
-.bi-instagram::before { content: "\f437"; }
+.bi-instagram::before {color: #9370DB; content: "\f437"; }
 .bi-intersect::before { content: "\f438"; }
 .bi-journal-album::before { content: "\f439"; }
 .bi-journal-arrow-down::before { content: "\f43a"; }
@@ -902,7 +902,7 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
 .bi-lightning::before { content: "\f46f"; }
 .bi-link-45deg::before { content: "\f470"; }
 .bi-link::before { content: "\f471"; }
-.bi-linkedin::before { content: "\f472"; }
+.bi-linkedin::before {color: #9370DB; content: "\f472"; }
 .bi-list-check::before { content: "\f473"; }
 .bi-list-nested::before { content: "\f474"; }
 .bi-list-ol::before { content: "\f475"; }
@@ -1283,7 +1283,7 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
 .bi-tv-fill::before { content: "\f5ec"; }
 .bi-tv::before { content: "\f5ed"; }
 .bi-twitch::before { content: "\f5ee"; }
-.bi-twitter::before { content: "\f5ef"; }
+.bi-twitter::before {  color:#9370DB content: "\f5ef"; }
 .bi-type-bold::before { content: "\f5f0"; }
 .bi-type-h1::before { content: "\f5f1"; }
 .bi-type-h2::before { content: "\f5f2"; }
