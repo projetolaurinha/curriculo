@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   background: black;
-  color: #898989;
+  color:black;
   font-family: "Poppins", helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -140,7 +140,8 @@ p {
 }
 
 .mb-30 {
-  margin-bottom: 30px;
+  margin-bottom: 3
+  0px;
 }
 
 .main-content {
@@ -822,7 +823,7 @@ p {
 }
 
 .journal-block .journal-info img {
-  max-width: 100%;
+  max-width: 50%;
 }
 
 .journal-block .journal-info .journal-txt {
@@ -961,7 +962,7 @@ p {
 
 /* main content */
 .main-content {
-  background: #f7f7f7;
+  background: black;
 }
 
 .main-content .container-main {
@@ -975,7 +976,7 @@ p {
 }
 
 .container-main .block-main .content-main {
-  background: #fff none repeat scroll 0 0;
+  background:black  none repeat scroll 0 0;
   display: inline-block;
   width: 100%;
 }
@@ -986,7 +987,7 @@ p {
   line-height: 24px;
   margin: 0 0 13px 0;
   font-weight: 500;
-  color: #292929;
+  color: #9370DB;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1334,6 +1335,10 @@ blockquote {
     float: right;
     padding-top: 15px;
     display: block;
+  }
+
+  .img-responsive{
+    width: 100%;
   }
 
   /* About */
