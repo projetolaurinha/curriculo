@@ -820,6 +820,8 @@ p {
 
 #journal .journal-block .journal-info {
   position: relative;
+  margin-left: 80%;
+  width: 100%;
 }
 
 .journal-block .journal-info img {
@@ -868,6 +870,7 @@ p {
 
 .contact-details li {
   padding-bottom: 10px;
+  color: #9370DB;
 }
 
 #contact input,
@@ -1339,6 +1342,9 @@ blockquote {
 
   .img-responsive{
     width: 100%;
+  }
+  .imgresponsive4{
+    width: 3%;
   }
 
   /* About */
